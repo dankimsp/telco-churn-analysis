@@ -55,11 +55,5 @@ This project analyzes customer churn patterns for a telecommunications company w
   - Improving onboarding experience for new customers
   - Targeting month-to-month customers with bundled service offers
 
-## Contact
-**Daniel Kim**  
-Data Analyst | Aspiring Applied Machine Learning Engineer 
-📧 danielcyk123@gmail.com  
-💼 [LinkedIn Profile](your-linkedin-url)
-
 ---
 *This project demonstrates expertise in customer analytics, machine learning, and business strategy for data-driven decision making.*
